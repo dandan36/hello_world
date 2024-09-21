@@ -1,21 +1,20 @@
-import logo from './logo.svg';
+import logo from './basketball.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Welcome To My Site</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://youtube.com/@idan_mat77?si=ucT_xPuXAbAsRZhl"
           target="_blank"
           rel="noopener noreferrer"
         >
-          idan the king
+          My YT Channel
         </a>
       </header>
     </div>
